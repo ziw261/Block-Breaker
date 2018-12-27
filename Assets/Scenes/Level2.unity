@@ -22803,6 +22803,11 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 1806875309}
+    - target: {fileID: 7715420989586916147, guid: 01a52199742a35d40ae5e42b3cc1c717,
+        type: 3}
+      propertyPath: yPush
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01a52199742a35d40ae5e42b3cc1c717, type: 3}
 --- !u!1001 &2073781489
@@ -23788,6 +23793,11 @@ PrefabInstance:
     - target: {fileID: 24306070999128013, guid: 6a911aa8097e9104bb62c0bb1256d7d9,
         type: 3}
       propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6856383830985531831, guid: 6a911aa8097e9104bb62c0bb1256d7d9,
+        type: 3}
+      propertyPath: isAutoPlayEnabled
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
