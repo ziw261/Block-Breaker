@@ -9,6 +9,7 @@ public class Cheat : MonoBehaviour {
 
     public void CheatTrigger() {
         gobj1.GetComponent<BoxCollider2D>().isTrigger = false;
+        FindObjectOfType<GameSession>().isAutoPlayEnabled = true;
     }
    
 }

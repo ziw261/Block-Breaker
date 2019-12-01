@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 151a1d946b98deb4b98445400983ba92
+guid: 868fbb4c41814baebc00f96e24ede2f8
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -30,7 +30,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        CPU: x86
+        CPU: x86_64
         OS: Windows
   - first:
       Android: Android
@@ -64,7 +64,7 @@ PluginImporter:
     second:
       enabled: 1
       settings:
-        CPU: x86
+        CPU: x86_64
         DefaultValueInitialized: true
         OS: Windows
   - first:
